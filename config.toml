@@ -2,7 +2,7 @@ baseURL = "https://karolis.dev/"
 languageCode = "en-us"
 title = "Karolis Mazukna"
 theme = "minimal"
-googleAnalytics = ""
+googleAnalytics = "UA-6326680-31"
 
 [params]
     author = "Karolis Mazukna"
